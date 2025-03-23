@@ -1,0 +1,8 @@
+<div class="input-container">
+  <input class="input-field" 
+  [type]="type" 
+  [placeholder]="placeholder" 
+  [(ngModel)]="value" 
+  (blur)="onTouched()" 
+  (input)="onValueChange(value)">
+</div>

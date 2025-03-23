@@ -1,0 +1,107 @@
+{
+  "labelMain": {
+    "aboutTitle":"O platformi",
+    "taskTitle":"Zadatak",
+    "animations":"Animacije",
+    "graphicDrawing":"Grafičko crtanje",
+    "german":"Nemački",
+    "spanish":"Španski",
+    "english":"Engleski",
+    "spectaculare": "Nisam teško pronaći, hajde da stvorimo nešto zaista spektakularno",
+    "email": "Kontaktiraj me ili mi pošaljite email direktno na",
+    "phone": "Takođe me možete pozvati na broj",
+    "button":"Kontaktiraj me" ,
+    "projects": "Projekti",
+    "contact": "Kontakt",
+    "aboutMe":"O meni",
+    "hello":"Zdravo, ja sam",
+    "designer":"Tvoj Dizajner",
+    "uiUxDesigner":"UI/UX Dizajner",
+    "graphicDesigner":"Grafički Dizajner",
+    "videoEditor":"Video Editor",
+    "viewProject":"Prikaži projekte",
+    "projectTitle":"Projekti",
+    "ticketTitle":"Tickety",
+    "ticketAbout":"Tickety je sveobuhvatna platforma za prodaju koncertnih karata, dizajnirana da pojednostavi proces kupovine ulaznica za omiljene muzičke događaje. Bilo da tražite najbolje mesto za koncert ili ekskluzivne ponude, Tickety vam omogućava da brzo i lako pronađete i kupite ulaznice koje odgovaraju vašim potrebama. Sa fokusom na praktičnost, povoljne cene i korisnički prijatan dizajn, cilj nam je da pružimo jedinstveno iskustvo svima koji žele da uživaju u muzici uživo.",
+    "ticketTask":"The task was to develop an intuitive and visually engaging platform where users can easily search for and purchase concert tickets. We focused on creating a seamless user experience that allows for quick comparison of options, access to detailed information, and secure ticket purchases. Our goal was to provide transparency, simplicity, and affordability, ensuring that every music lover can plan their concerts with ease and confidence.",
+    "waterfront":"Obrenovac Waterfront je igra koja je nastala iz Open IT Game Jam 2023, gde je tema bila akvatične avanture. Igra nudi i single i multiplayer režime igre. Igrači istražuju fascinantni podvodni svet pun izazova, čineći putovanje do freestylers-a uzbudljivim i vizuelno atraktivnim.",
+    "meowngry":"Meowngry je igra u kojoj igrač preuzima ulogu male mace koja pokušava da preživi u sobi punoj drugih mačaka kod stare dame. Igrači istražuju prostor, suočavaju se sa izazovima, i pokušavaju da nabave hranu i pronađu sigurno mesto za spavanje. Sve što se vidi u igri, od predmeta u sobi do likova, napravljeno je u Blenderu, što igri daje jedinstven vizuelni stil."
+  },
+  "labelZenith": {
+    "title":"Zenith Banka",
+    "aboutText": "Zenith Bank je vodeća finansijska institucija posvećena pružanju inovativnih i pristupačnih bankarskih rešenja. Naša misija je da osnažimo klijente nudeći im besprekorno i sigurno digitalno iskustvo koje odgovara njihovim promenljivim potrebama. Fokusirani na jednostavnost i efikasnost, nastojimo da učinimo bankarstvo lakšim i praktičnijim, osiguravajući da svaka interakcija odražava našu posvećenost poverenju, pouzdanosti i zadovoljstvu korisnika." ,
+    "taskText": "Za Zenith Bank zadatak je bio kreiranje modernog digitalnog proizvoda koji pojednostavljuje pristup korisnika njihovim finansijskim uslugama uz minimalan napor i maksimalnu sigurnost. Ideja je bila da se dizajnira interfejs koji je jednostavan, intuitivan, a ipak visoko funkcionalan, omogućavajući korisnicima da brzo i efikasno pronađu sve što im je potrebno. Fokus je bio na stvaranju iskustva koje odražava reputaciju banke kao pouzdane i orijentisane ka korisnicima."
+  },
+  "labelTitanium": {
+    "aboutText": "Titanium Financial je napredna platforma posvećena pružanju vrhunskih finansijskih usluga, sa posebnim fokusom na rešenja za kreditne kartice koja korisnicima omogućavaju da lako upravljaju svojim finansijama. Naš cilj je da ponudimo neuporedivo korisničko iskustvo kroz fleksibilne, sigurne i korisne opcije kreditnih kartica koje odgovaraju različitim finansijskim potrebama. Sa Titanium Financial-om, korisnici mogu otključati ekskluzivne pogodnosti, uživati u besprekornim transakcijama i imati potpunu kontrolu nad svojim finansijskim putem." ,
+    "taskText": "Zadatak je bio da kreiramo inovativnu finansijsku platformu koja pojednostavljuje upravljanje kreditnim karticama, pružajući korisnicima sigurnost, fleksibilnost i ekskluzivne pogodnosti. Naš cilj je bio da osmislimo intuitivno i besprekorno korisničko iskustvo, omogućavajući korisnicima jednostavan pristup i kontrolu nad svojim finansijama. Fokus je bio na razvoju sistema koji nudi transparentne transakcije, personalizovane finansijske uvide i korisnički nagrađujuće iskustvo, omogućavajući korisnicima da donose informisane finansijske odluke s punim poverenjem."
+  },
+  "labelAboutMe":{
+    "aboutMe":"O meni",
+    "aboutMeText": " Zdravo, moje ime je Nevena i trenutno sam na četvrtoj godini Fakulteta organizacionih nauka. Pored studija, već pet godina radim kao freelance dizajner, što mi je omogućilo da razvijem širok spektar veština. Imala sam priliku da radim na različitim projektima, uključujući UI/UX dizajn i grafički dizajn, a takođe uživam u učestvovanju na game jamovima i hakatonima. Moje interesovanje za IT fokusira se na Angular i .NET tehnologije, a pored dizajna, strastveno se bavim grafičkim crtanjem i editovanjem. Uvek sam spremna da učim, eksperimentišem i sarađujem na uzbudljivim novim izazovima."
+  },
+  "labelExperience":{
+    "experience":"Iskustvo",
+    "associateTitle":"Saradnik u kancelariji za odnose s javnošću i korporativne poslove na Fakultetu organizacionih nauka",
+    "associateText":"Imala sam priliku da doprinesem različitim projektima. Moje odgovornosti su uključivale video montažu, dizajniranje objava za društvene mreže i kreiranje sadržaja za razne događaje. Učestvovala sam u značajnim projektima kao što su IBM Master Program u saradnji sa Middlesex univerzitetom, FONBoarding, PM Forum, FON Summer School, FON Board i Dan fakulteta, među ostalima. Tokom ovih projekata bila sam zadužena za izradu širokog spektra materijala, uključujući štampane materijale, sadržaj za društvene mreže, video materijale, pa čak i 3D modele. Moja uloga zahtevala je kombinaciju kreativnih i tehničkih veština, kako bi svi neophodni materijali bili pripremljeni u skladu sa ciljevima projekta. Bila sam uključena i u konceptualizaciju i u realizaciju sadržaja, uvek težeći da isporučim vizuelno privlačne i efektne rezultate.",
+    "fonisTitle":"FONIS - Studentska organizacija na Fakultetu organizacionih nauka",
+    "fonisText":" Bila sam deo različitih timova, uključujući IT i dizajn. Držala sam liderske pozicije, prvenstveno kao vođa dizajnerskog tima, a kasnije i kao koordinator projekta. Kao vođa dizajnerskog tima, bila sam fokusirana na kreiranje vizuelnog identiteta naših projekata, što je obuhvatalo dizajn veb-sajta, štampanih materijala i sadržaja za društvene mreže, poput Instagram objava. Takođe sam organizovala radionice za članove tima, gde smo zajednički razvijali celokupan vizuelni identitet, osiguravajući doslednost na svim platformama. Ova uloga mi je omogućila da spojim svoje kreativne i tehničke veštine, kako bi dizajnerski aspekti bili u skladu sa ciljevima projekta.",
+    "artemiTitle":"Grafički Dizajner i Social Media Manadzer u startup-u Artemi",
+    "artemiText":" Bila sam odgovorna za dizajn celokupnog UI/UX-a veb-sajta, osiguravajući besprekorno i korisnički prijateljsko iskustvo. Pored dizajna sajta, bavila sam se kreiranjem sadržaja za Instagram kompanije, doprinoseći njenoj online prisutnosti i angažovanju publike."
+  },
+  "labelSkills":{
+    "skillsTitle":"Veštine"
+  },
+  "labelAcademia":
+  {
+  "aboutText": "Academia je mentorska platforma osmišljena da poveže ambiciozne profesionalce sa iskusnim mentorima iz različitih industrija. Naš cilj je da podstaknemo rast i razvoj pružajući personalizovane smernice, podršku i uvide, pomažući pojedincima da dostignu svoj puni potencijal. Verujemo da je mentorstvo moćan alat za uspeh, a naša platforma ima za cilj da stvori zajednicu kontinuiranog učenja, rasta i prilika.",
+  "taskText": "Zadatak je bio da razvijemo korisnički prijatnu platformu koja omogućava značajne veze između mentora i mentija. Fokusirali smo se na dizajniranje besprekornog iskustva, gde korisnici lako mogu pronaći i povezati se sa pravim mentorima na osnovu svojih ciljeva i oblasti ekspertize. Ideja je bila da se proces mentorstva učini dostupnijim, transparentnijim i angažujućim, omogućavajući korisnicima da izgrade vredne profesionalne odnose i ubrzaju svoj lični i karijerni razvoj."
+  },
+  "labelMedia":
+  {
+    "aboutText": "Ova društvena mreža je osmišljena da stvori značajne veze i podstakne autentičnu interakciju. Bilo da želite da se povežete s prijateljima, delite svoje strasti ili otkrivate novi sadržaj, naša platforma nudi prostor za svakoga. Sa korisnički prijatnim interfejsom, personalizovanim iskustvima i snažnim funkcijama, naš cilj je da okupljamo ljude, podstičemo kreativno izražavanje i gradimo zajednice u kojima korisnici mogu da se angažuju, uče i zajedno rastu." ,
+    "taskText": "Zadatak je bio da razvijemo intuitivnu i angažujuću platformu koja ne samo da povezuje korisnike, već ih i osnažuje da dele svoje priče i stupaju u interakciju sa sadržajem na nove načine. Fokusirali smo se na stvaranje besprekornog korisničkog iskustva, osiguravajući da svaka interakcija – od objavljivanja do komentarisanja – bude jednostavna i prijatna. Cilj je bio da izgradimo platformu na kojoj korisnici mogu da otkrivaju raznovrstan sadržaj, povežu se s onima koji dele slična interesovanja i stvore prostor za kreativnost i saradnju."
+  },
+  "labelSpaceCoint":
+  {
+  "aboutText": "Ova društvena mreža je dizajnirana da stvori značajne veze i podstakne iskreno angažovanje. Bilo da želite da se povežete s prijateljima, podelite svoje strasti ili otkrijete novi sadržaj, naša platforma nudi prostor za svakoga. Sa korisnički prijatnim interfejsom, personalizovanim iskustvima i moćnim funkcijama, cilj nam je da spojimo ljude, podstaknemo kreativno izražavanje i izgradimo zajednice u kojima korisnici mogu da se povezuju, uče i rastu zajedno.",
+  "taskText": "Zadatak je bio da razvijemo intuitivnu i angažujuću platformu koja ne samo da povezuje korisnike, već ih i osnažuje da dele svoje priče i stupaju u interakciju sa sadržajem na nove načine. Fokusirali smo se na stvaranje besprekornog korisničkog iskustva, osiguravajući da svaka interakcija – od objavljivanja do komentarisanja – bude jednostavna i prijatna. Cilj je bio da izgradimo platformu na kojoj korisnici mogu da otkrivaju raznovrstan sadržaj, povežu se s onima koji dele slična interesovanja i stvore prostor za kreativnost i saradnju."
+  },
+  "labelCoffeHub":
+  {
+  "aboutText": "CoffeeHub je dinamična platforma osmišljena da učini vaše iskustvo ispijanja kafe bržim, jednostavnijim i personalizovanijim. Bilo da ste ljubitelj kafe ili vam je samo potreban brz energetski podsticaj, CoffeeHub vas povezuje sa vašim omiljenim kafićima, nudeći vam jednostavan način da naručite savršenu šoljicu, prilagodite svoj napitak i dobijete ga dostavljenog pravo na vaša vrata. Sa fokusom na praktičnost, raznovrsnost i zadovoljstvo korisnika, CoffeeHub je tu da svaki trenutak uz kafu učini posebnim.",
+  "taskText": "Zadatak je bio da osmislimo korisnički prijatnu platformu na kojoj kupci mogu brzo pregledati različite opcije kafe, izabrati omiljene napitke i lako obaviti narudžbinu. Cilj nam je bio da kreiramo glatko i intuitivno korisničko iskustvo koje omogućava personalizaciju narudžbina, pregled obližnjih kafića i uživanje u brzoj i pouzdanoj dostavi. Naš fokus je bio na pružanju besprekornog i efikasnog sistema za naručivanje kafe, omogućavajući korisnicima da u samo nekoliko klikova uživaju u svojim omiljenim napicima bilo kada i bilo gde."
+  },
+  "labelLuckyTraveler":
+  {
+  "aboutText": "Lucky Traveler je sveobuhvatna platforma za putovanja koja je osmišljena da pojednostavi proces planiranja i rezervacije vašeg sledećeg avanturističkog putovanja. Bilo da tražite najbolji hotel, let ili paket aranžman, Lucky Traveler vam olakšava da pronađete i rezervišete savršen izbor za vaše potrebe. Sa fokusom na praktičnost, odlične ponude i korisnički prijatan dizajn, cilj nam je da ponudimo putnicima sve-u-jednom platformu koja im pomaže da stvore nezaboravna iskustva.",
+  "taskText": "Zadatak je bio da razvijemo intuitivnu, vizuelno angažujuću platformu na kojoj korisnici mogu bez napora da pretražuju i rezervišu svoje smeštajne opcije. Fokusirali smo se na stvaranje besprekornog korisničkog iskustva koje omogućava korisnicima da uporede opcije, pristupe detaljnim informacijama i brzo obave rezervaciju. Cilj je bio da izgradimo platformu koja nudi lakoću korišćenja, transparentnost i pristupačnost, a istovremeno obezbeđuje korisnicima sve alate koji su im potrebni da planiraju svoja putovanja sa poverenjem."
+  },
+  "errors": {
+    "RequestInvalid": "",
+    "Unauthorized": "",
+    "RequirementsNotMet": "",
+    "IdentityError": "{{details}}",
+    "EntityDoesNotExist": "{{entityName}} ne postoji.",
+    "EntityAlreadyExists": "{{entityName}} već postoji.",
+    "InternalServerError": "{{details}}",
+    "InvalidCredentials": "Neispravni podaci.",
+    "EmptyFile": "",
+    "MaxFileSizeReached": "Neuspešno. Slika ne može biti veća od {{maxSizeInMb}} MB.",
+    "CanOnlyUploadPhotos": "",
+    "WrongAspectRatio": "",
+    "MissingAspectRatio": "",
+    "EmailNotSent": "Dogodila se greška, email nije poslat, pokusajte kasnije.",
+    "AlreadyConfirmedEmail": "Mail adresa je već potvrđena.",
+    "InvalidConfirmationCode": "Pogrešan kod za potvrdu.",
+    "InvalidGoogleAccount": "Ovaj Google nalog nije validan, prvo se registrujte.",
+    "ConfirmationCodeExpired": "Ovaj kod za potvrdu je istekao.",
+    "Name is required." : "Ime je obavezno."
+  },
+  "confirmMessages": {
+
+  },
+  "placeholders": {
+
+  }
+}

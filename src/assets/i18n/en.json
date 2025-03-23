@@ -1,0 +1,106 @@
+{
+  "labelMain": {
+    "aboutTitle":"About",
+    "taskTitle":"Task",
+    "animations":"Animations",
+    "graphicDrawing":"Graphic Drawing",
+    "german":"German",
+    "spanish":"Spanish",
+    "english":"English",
+    "spectaculare":"I am not hard to find, let’s create something truly Spectaculare",
+    "email":"Get in touch or shoot me an email directly on",
+    "phone":"You can also call me under",
+    "button":"Get in touch",
+    "aboutMe":"About Me",
+    "projects": "Projects",
+    "contact": "Contact",
+    "hello":"Hello, I am",
+    "designer":"Your Designer",
+    "uiUxDesigner":"UI/UX Designer",
+    "graphicDesigner":"Graphic Designer",
+    "videoEditor":"Video Editor",
+    "viewProject":"View Projects",
+    "projectTitle":"Projects",
+    "ticketTitle":"Tickety",
+    "ticketAbout":"Tickety is a comprehensive ticketing platform designed to simplify the process of purchasing concert tickets for your favorite music events. Whether you're looking for the best seats or exclusive deals, Tickety makes it easy to find and buy tickets that suit your needs. With a focus on convenience, affordable prices, and a user-friendly design, our goal is to provide a seamless experience for all music lovers who want to enjoy live performances.",
+    "ticketTask":"The task was to develop an intuitive and visually engaging platform where users can easily search for and purchase concert tickets. We focused on creating a seamless user experience that allows for quick comparison of options, access to detailed information, and secure ticket purchases. Our goal was to provide transparency, simplicity, and affordability, ensuring that every music lover can plan their concerts with ease and confidence.",
+    "waterfront":"Obrenovac Waterfront is a game that emerged from the Open IT Game Jam 2023, where the theme was aquatic adventures. The game features both single and multiplayer modes of play.. Players navigate through a captivating underwater world filled with challenges, making the journey to the freestyler both exciting and visually engaging.",
+    "meowngry":"Meowngry is a game where the player takes on the role of a small cat trying to survive in a room full of other cats at an old lady's house. Players explore the space, face challenges, and try to get food and find a safe place to sleep. Everything seen in the game, from the objects in the room to the characters, is made in Blender, giving the game a unique visual style."
+  },
+  "labelZenith": {
+    "title":"Zenith Bank",
+    "aboutText":"Zenith Bank is a leading financial institution committed to providing innovative and accessible banking solutions. Our mission is to empower customers by offering seamless and secure digital experiences that meet their evolving needs. With a focus on simplicity and efficiency, we strive to make banking easier and more convenient, ensuring that every interaction reflects our commitment to trust, reliability, and customer satisfaction." ,
+    "taskText":"For Zenith Bank, the task was to create a modern digital product that simplifies customer access to their financial services with minimal effort and maximum security. The idea was to design an interface that is simple, intuitive, yet highly functional, allowing users to find everything they need quickly and efficiently. The focus on crafting an experience that reflects the bank's reputation for being reliable and customer-centric."
+  },
+  "labelTitanium": {
+    "aboutText":"Titanium Financial is a cutting-edge platform dedicated to providing premium financial services, with a strong focus on credit card solutions that empower users to manage their finances effortlessly. We aim to deliver unparalleled customer experiences by offering flexible,  secure, and rewarding credit card options that cater to a wide range of financial needs.  With Titanium Financial, users can unlock exclusive benefits, enjoy seamless transactions, and have full control over their financial journeys." ,
+    "taskText":"The task was to create an innovative financial platform that simplifies credit card management while providing users with security, flexibility, and exclusive benefits. Our goal was to design an intuitive and seamless user experience, ensuring that customers could easily access and control their finances. The focus was on developing a system that offers transparent transactions, personalized financial insights, and a rewarding experience, allowing users to make informed financial decisions with confidence."
+  },
+  "labelAboutMe":{
+    "aboutMeText":"Hi, my name is Nevena, and I am currently in my 4th year at the Faculty of Organizational Sciences. In addition to my studies, I’ve been working as a freelance designer for the past 5 years, which has allowed me to develop a wide range of skills.I have had the opportunity to work on various projects, including UI/UX design and graphic design, and I also enjoy participating in game jams and hackathons.My interest in IT focuses on Angular and .NET technologies, and in addition to my design work, I’m passionate about graphic drawing and editing. I'm always eager to learn, experiment, and collaborate on exciting new challenges."
+  },
+  "labelExperience":{
+    "experience":"Experience",
+    "associateTitle":"Associate in the Public Relations and Corporate Affairs at the Faculty of Organisational Sciences",
+    "associateText":"I have had the opportunity to contribute to a variety of projects. My responsibilities included video editing, designing social media posts, and creating content for various events. I participated in significant projects such as the IBM Master Program in collaboration with Middlesex University, FONBoarding, PM Forum, FON Summer School, FON Board, and Faculty Day, among others. Throughout these projects, I was responsible for creating a wide range of materials including printed materials, social media content, videos, and even 3D models. My role required a blend of creative and technical skills, ensuring that all the necessary materials were prepared in line with the project's goals. I was involved in both the conceptualization and execution of content, always aiming to deliver visually engaging and impactful results.",
+    "fonisTitle":"FONIS - Association of Information Technology Students at FON",
+    "fonisText":"I was part of various teams, including IT and design. I held leadership roles, primarily as the leader of the design team and later as the project coordinator. In my role as the design team leader, I focused on creating the visual identity for our projects, including website design, print materials, and social media content like Instagram posts. I also organized workshops for team members, where we collaboratively developed the entire identity, ensuring consistency across all platforms. This role allowed me to leverage both my creative and technical skills, ensuring that the design aspects aligned with the project's goals.",
+    "artemiTitle":"Graphic Designer and Social Media Manager at Artemi",
+    "artemiText":"I was responsible for designing the entire UI/UX of the website, ensuring a seamless and user-friendly experience. In addition to the website design, I handled the creation of content for the company’s Instagram, contributing to its online presence and engagement."
+  },
+  "labelSkills":{
+    "skillsTitle":"Skills"
+  },
+  "labelAcademia":
+  {
+    "aboutText":"Academia is a mentorship platform designed to connect aspiring professionals with experienced mentors across various industries. Our goal is to foster growth and development by providing personalized guidance, support, and insight, helping individuals reach their full potential. We believe that mentorship is a powerful tool for success, and our platform aims to create a community of continuous learning, growth, and opportunity." ,
+    "taskText":"The task was to develop a user-friendly platform that facilitates meaningful connections between mentors and mentees. We focused on designing a seamless experience where users can easily find and connect with the right mentors based on their goals and areas of expertise. The idea was to make the mentorship process more accessible, transparent, and engaging, enabling users to build valuable professional relationships and accelerate their personal and career development."
+  },
+  "labelMedia":
+  {
+    "aboutText":"This social media platform is designed to create meaningful connections and foster genuine engagement. Whether you’re looking to connect with friends, share your passions, or discover new content, our platform offers a space for everyone. With a user-friendly interface, personalized experiences,and robust features, we aim to bring people together, encourage creative expression, and build communities where users can engage, learn, and grow together." ,
+    "taskText":"The task was to develop an intuitive and engaging platform that not only connects users but also empowers them to share their stories and interact with content in new ways. We focused on creating a seamless user experience, ensuring that every interaction, from posting to commenting, was effortless and enjoyable. The goal was to build a platform where users could discover diverse content, connect with others who share similar interests, and foster a space for creativity and collaboration."
+  },
+  "labelSpaceCoint":
+  {
+    "aboutText":"This social media platform is designed to create meaningful connections and foster genuine engagement. Whether you’re looking to connect with friends, share your passions, or discover new content, our platform offers a space for everyone. With a user-friendly interface, personalized experiences,and robust features, we aim to bring people together, encourage creative expression, and build communities where users can engage, learn, and grow together." ,
+    "taskText":"The task was to develop an intuitive and engaging platform that not only connects users but also empowers them to share their stories and interact with content in new ways. We focused on creating a seamless user experience, ensuring that every interaction, from posting to commenting, was effortless and enjoyable. The goal was to build a platform where users could discover diverse content, connect with others who share similar interests, and foster a space for creativity and collaboration."
+  },
+  "labelCoffeHub":
+  {
+    "aboutText":"CoffeeHub is a dynamic platform designed to make your coffee experience faster, simpler, and more personalized. Whether you're a coffee enthusiast or someone who just needs a quick pick-me-up, CoffeeHub connects you with your favorite coffee shops, offering an easy way to order your perfect cup, customize your drink, and have it delivered right to your door. With a focus on convenience, variety, and customer satisfaction, CoffeeHub is here to make every coffee break a moment to savor." ,
+    "taskText":"The task was to design a user-friendly platform where customers can quickly browse through various coffee options, select their favorite beverages, and place orders with ease. We aimed to create a smooth and intuitive interface that allows users to personalize their orders, view nearby coffee shops, and enjoy fast, reliable delivery. The goal was to provide a seamless, efficient coffee ordering experience, ensuring that customers can enjoy their favorite drinks anytime, anywhere, with just a few clicks."
+  },
+  "labelLuckyTraveler":
+  {
+  "aboutText":"Lucky Traveler is a comprehensive travel platform designed to simplify the process of planning and booking your next adventure. Whether you're looking for the best hotel, flight, or vacation package, Lucky Traveler makes it easy to find and book the perfect option for your needs. With a focus on convenience, great deals, and user-friendly design, we aim to offer travelers an all-in-one platform that helps them create unforgettable experiences.",
+  "taskText":"The task was to develop an intuitive, visually engaging platform where users can effortlessly search and book their travel accommodations. We focused on creating a seamless experience that allows users to compare options, access detailed information, and make reservations quickly. The goal was to build a platform that offers ease of use, transparency, and affordability, while ensuring users have all the tools they need to plan their trips with confidence."
+  },
+  "errors": {
+    "RequestInvalid": "",
+    "Unauthorized": "",
+    "RequirementsNotMet": "",
+    "IdentityError": "{{details}}",
+    "EntityDoesNotExist": "{{entityName}} does not exist.",
+    "EntityAlreadyExists": "{{entityName}} already exists.",
+    "InternalServerError": "{{details}}",
+    "InvalidCredentials": "Invalid credentials.",
+    "EmptyFile": "",
+    "MaxFileSizeReached": "Couldn't upload. Maximum file size is {{maxSizeInMb}} MB.",
+    "CanOnlyUploadPhotos": "Image load failed. Unsupported media type or corrupted file.",
+    "WrongAspectRatio": "",
+    "MissingAspectRatio": "",
+    "EmailNotSent": "Unexpected error, we couldn't send the email, try again later.",
+    "AlreadyConfirmedEmail": "This email address has already been confirmed",
+    "InvalidConfirmationCode": "This confirmation code is invalid",
+    "InvalidGoogleAccount": "This Google account isn't valid, register first.",
+    "ConfirmationCodeExpired": "This confirmation code has expired.",
+    "Name is required." : "Name is required."
+  },
+  "confirmMessages": {
+
+  },
+  "placeholders": {
+
+  }
+}

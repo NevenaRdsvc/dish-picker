@@ -1,0 +1,23 @@
+<h1>Who will wash the dishes?</h1>
+
+<div class="wrapper">
+  <app-input 
+  label="Enter first name" 
+  placeholder="First name"
+  type="text" 
+  [(ngModel)]="firstName">
+  </app-input>
+  <app-input 
+  label="Enter second name" 
+  placeholder="Second name"
+  type="text" 
+  [(ngModel)]="secondName">
+  </app-input>
+  <button class="spin-button" (click)="pickRandomName()">SPIN</button>
+</div>
+
+@if (namePicked) {
+  <h2>{{ selectedName }}</h2>
+}
+
+<img class="cat" src="/images/cat.gif" alt="">

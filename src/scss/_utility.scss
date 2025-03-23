@@ -1,0 +1,18 @@
+@import "animate.css";
+
+.fade-in-left {
+  opacity: 1 !important;
+  animation: fadeInLeft;
+  animation-duration: 1s;
+}
+
+.fade-out-up {
+  animation: fadeOutDown;
+  animation-duration: 0.3s;
+}
+
+.fade-in-right {
+  opacity: 1 !important;
+  animation: fadeInRight;
+  animation-duration: 1s;
+}

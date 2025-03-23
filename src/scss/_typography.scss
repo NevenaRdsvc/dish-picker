@@ -1,0 +1,110 @@
+@use "variables" as variables;
+
+body {
+  font-family: "Montserrat", serif;
+  font-size: 18px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: var(--white);
+}
+
+h1 {
+  margin-bottom: 30px;
+  font-family: "Montserrat", serif;
+  font-size: 80px;
+  font-weight: 400;
+  color: var(--white);
+
+  @media #{variables.$s-desktop} {
+    font-size: 66px;
+  }
+
+  @media #{variables.$tablet} {
+    font-size: 50px;
+  }
+
+  @media #{variables.$phone} {
+    font-size: 40px;
+  }
+}
+
+h2 {
+  font-size: 60px;
+  font-weight: 700;
+  line-height: 1.1;
+  color: var(--black);
+
+  @media #{variables.$s-desktop} {
+    font-size: 46px;
+  }
+
+  @media #{variables.$tablet} {
+    font-size: 40px;
+  }
+
+  @media #{variables.$phone} {
+    font-size: 36px;
+  }
+}
+
+h3 {
+  font-size: 26px;
+  line-height: 20px;
+  color: var(--black);
+
+  @media #{variables.$phone} {
+    font-size: 18px;
+  }
+}
+
+li {
+  outline: none;
+  list-style: none;
+}
+
+p {
+  font-size: 20px;
+  line-height: 1.6;
+  color: var(--black);
+
+  @media #{variables.$phone} {
+    font-size: 15px;
+    text-align: justify;
+  }
+}
+
+a {
+  color: var(--black);
+  text-decoration: none;
+  cursor: pointer;
+
+  &:active,
+  &:focus,
+  &:hover {
+    color: var(--alt);
+  }
+
+  &.white {
+    color: var(--alt);
+
+    &:active,
+    &:focus,
+    &:hover {
+      color: var(--alt);
+    }
+  }
+
+  &:visited {
+    text-decoration: none;
+  }
+}
+
+h4 {
+  font-size: 24px;
+}

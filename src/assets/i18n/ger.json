@@ -1,0 +1,63 @@
+{
+    "labelMain": {
+      "aboutTitle":"Über",
+      "taskTitle":"Aufgabe",
+      "animations":"Animationen",
+      "graphicDrawing":"Grafisches Zeichnen",
+      "german":"Deutsch",
+      "spanish":"Spanisch",
+      "english":"Englisch",
+      "spectaculare":"Ich bin nicht schwer zu finden, lass uns etwas wirklich Spectaculare erschaffen",
+      "email":"Kontaktiere mich oder sende mir direkt eine E-Mail an",
+      "phone":"Du kannst mich auch unter folgender Nummer anrufen",
+      "button":"Kontakt aufnehmen",
+      "aboutMe":"Über mich",
+      "projects": "Projekte",
+      "contact": "Kontakt",
+      "hello":"Hallo, ich bin",
+      "designer":"Dein Designer",
+      "uiUxDesigner":"UI/UX Designer",
+      "graphicDesigner":"Grafikdesigner",
+      "videoEditor":"Video Editor",
+      "viewProject":"Projekte ansehen",
+      "projectTitle":"Projekte",
+      "ticketTitle":"Tickety",
+      "ticketAbout":"Tickety ist eine umfassende Ticketplattform, die den Prozess des Ticketkaufs für deine Lieblingskonzerte vereinfacht. Egal, ob du die besten Plätze oder exklusive Angebote suchst, Tickety macht es einfach, Tickets zu finden und zu kaufen, die deinen Bedürfnissen entsprechen. Mit einem Fokus auf Bequemlichkeit, erschwingliche Preise und ein benutzerfreundliches Design ist es unser Ziel, allen Musikliebhabern eine nahtlose Erfahrung zu bieten, die es ihnen ermöglicht, Live-Performances zu genießen.",
+      "ticketTask":"Die Aufgabe bestand darin, eine intuitive und visuell ansprechende Plattform zu entwickeln, auf der Benutzer schnell nach Konzerttickets suchen und diese kaufen können. Wir konzentrierten uns darauf, ein nahtloses Benutzererlebnis zu schaffen, das einen schnellen Vergleich von Optionen, den Zugang zu detaillierten Informationen und den sicheren Ticketkauf ermöglicht. Unser Ziel war es, Transparenz, Einfachheit und Erschwinglichkeit zu gewährleisten, damit jeder Musikliebhaber seine Konzerte mit Leichtigkeit und Vertrauen planen kann.",
+      "waterfront":"Obrenovac Waterfront ist ein Spiel, das aus dem Open IT Game Jam 2023 hervorgegangen ist, bei dem das Thema \"aquatische Abenteuer\" war. Das Spiel bietet sowohl Einzelspieler- als auch Mehrspielermodi. Spieler navigieren durch eine fesselnde Unterwasserwelt voller Herausforderungen, was die Reise zum Freestyler sowohl spannend als auch visuell ansprechend macht.",
+      "meowngry": "Meowngry ist ein Spiel, in dem der Spieler die Rolle einer kleinen Katze übernimmt, die in einem Raum voller anderer Katzen im Haus einer alten Dame überleben muss. Die Spieler erkunden den Raum, stellen sich Herausforderungen und versuchen, Nahrung zu bekommen und einen sicheren Schlafplatz zu finden. Alles, was im Spiel zu sehen ist, von den Gegenständen im Raum bis zu den Charakteren, wurde in Blender erstellt, was dem Spiel einen einzigartigen visuellen Stil verleiht."
+    },
+    "labelZenith": {
+      "title":"Zenith Bank",
+      "aboutText":"Zenith Bank ist eine führende Finanzinstitution, die sich der Bereitstellung innovativer und zugänglicher Banklösungen verschrieben hat. Unsere Mission ist es, Kunden zu empowern, indem wir nahtlose und sichere digitale Erlebnisse bieten, die ihren sich entwickelnden Bedürfnissen gerecht werden. Mit einem Fokus auf Einfachheit und Effizienz streben wir danach, das Bankwesen zu vereinfachen und bequemer zu gestalten, wobei jede Interaktion unser Engagement für Vertrauen, Zuverlässigkeit und Kundenzufriedenheit widerspiegelt.",
+      "taskText":"Für Zenith Bank bestand die Aufgabe darin, ein modernes digitales Produkt zu schaffen, das den Kunden den Zugang zu ihren Finanzdienstleistungen mit minimalem Aufwand und maximaler Sicherheit vereinfacht. Die Idee war, eine Benutzeroberfläche zu entwerfen, die einfach, intuitiv und gleichzeitig hochfunktional ist, sodass Benutzer schnell und effizient alles finden können, was sie brauchen. Der Fokus lag darauf, ein Erlebnis zu schaffen, das den Ruf der Bank für Zuverlässigkeit und Kundenzentrierung widerspiegelt."
+    },
+    "labelTitanium": {
+      "aboutText":"Titanium Financial ist eine hochmoderne Plattform, die sich auf die Bereitstellung von Premium-Finanzdienstleistungen konzentriert, mit einem starken Fokus auf Kreditkartenlösungen, die es den Nutzern ermöglichen, ihre Finanzen mühelos zu verwalten. Unser Ziel ist es, unvergleichliche Kundenerlebnisse zu bieten, indem wir flexible, sichere und lohnende Kreditkartenoptionen anbieten, die eine Vielzahl finanzieller Bedürfnisse abdecken. Mit Titanium Financial können Nutzer exklusive Vorteile freischalten, nahtlose Transaktionen genießen und die vollständige Kontrolle über ihre finanzielle Reise haben.",
+      "taskText":"Die Aufgabe bestand darin, eine innovative Finanzplattform zu entwickeln, die das Kreditkartenmanagement vereinfacht und den Nutzern gleichzeitig Sicherheit, Flexibilität und exklusive Vorteile bietet. Unser Ziel war es, ein intuitives und nahtloses Benutzererlebnis zu schaffen, sodass Kunden ihre Finanzen problemlos zugreifen und kontrollieren können. Der Fokus lag darauf, ein System zu entwickeln, das transparente Transaktionen, personalisierte Finanzdaten und ein lohnendes Erlebnis bietet, damit Nutzer informierte finanzielle Entscheidungen mit Vertrauen treffen können."
+    },
+    "labelAboutMe": {
+      "aboutMeText":"Hallo, mein Name ist Nevena und ich befinde mich derzeit im 4. Jahr an der Fakultät für Organisationswissenschaften. Zusätzlich zu meinem Studium arbeite ich seit 5 Jahren als freiberufliche Designerin, was mir ermöglicht hat, ein breites Spektrum an Fähigkeiten zu entwickeln. Ich hatte die Gelegenheit, an verschiedenen Projekten zu arbeiten, einschließlich UI/UX-Design und Grafikdesign, und ich nehme auch gerne an Game Jams und Hackathons teil. Mein Interesse an IT konzentriert sich auf Angular- und .NET-Technologien, und neben meiner Designarbeit bin ich leidenschaftlich an Grafikzeichnen und Bearbeitung interessiert. Ich bin stets bestrebt zu lernen, zu experimentieren und an aufregenden neuen Herausforderungen zusammenzuarbeiten."
+    },
+    "labelExperience": {
+      "experience":"Erfahrung",
+      "associateTitle":"Associate in der Öffentlichkeitsarbeit und Unternehmenskommunikation an der Fakultät für Organisationswissenschaften",
+      "associateText":"Ich hatte die Gelegenheit, zu verschiedenen Projekten beizutragen. Zu meinen Aufgaben gehörten Video-Editing, Gestaltung von Social-Media-Posts und die Erstellung von Inhalten für verschiedene Veranstaltungen. Ich habe an bedeutenden Projekten wie dem IBM Master Program in Zusammenarbeit mit der Middlesex University, FONBoarding, PM Forum, FON Summer School, FON Board und Faculty Day teilgenommen. Im Rahmen dieser Projekte war ich verantwortlich für die Erstellung einer Vielzahl von Materialien, darunter gedruckte Materialien, Social-Media-Inhalte, Videos und sogar 3D-Modelle. Meine Rolle erforderte eine Mischung aus kreativen und technischen Fähigkeiten, um sicherzustellen, dass alle benötigten Materialien im Einklang mit den Zielen des Projekts erstellt wurden. Ich war sowohl an der Konzeption als auch an der Ausführung von Inhalten beteiligt und strebte stets an, visuell ansprechende und wirkungsvolle Ergebnisse zu liefern.",
+      "fonisTitle":"FONIS - Verein der Informationstechnologie-Studenten an FON",
+      "fonisText":"Ich war Teil verschiedener Teams, einschließlich IT und Design. Ich hatte Führungsrollen, hauptsächlich als Leiterin des Designteams und später als Projektkoordinatorin. In meiner Rolle als Designteamleiterin lag mein Fokus auf der Erstellung der visuellen Identität für unsere Projekte, einschließlich Webdesign, Druckmaterialien und Social-Media-Inhalte wie Instagram-Posts. Ich organisierte auch Workshops für Teammitglieder, in denen wir gemeinsam die gesamte Identität entwickelten und sicherstellten, dass auf allen Plattformen Konsistenz herrschte. Diese Rolle ermöglichte es mir, sowohl meine kreativen als auch technischen Fähigkeiten einzusetzen, um sicherzustellen, dass die Designaspekte mit den Zielen des Projekts übereinstimmten.",
+      "artemiTitle":"Grafikdesignerin und Social Media Managerin bei Artemi",
+      "artemiText":"Ich war verantwortlich für das gesamte UI/UX-Design der Website und sorgte für eine nahtlose und benutzerfreundliche Erfahrung. Neben dem Webdesign kümmerte ich mich auch um die Erstellung von Inhalten für das Instagram-Profil des Unternehmens, was zu dessen Online-Präsenz und Engagement beitrug."
+    },
+    "labelSkills": {
+      "skillsTitle":"Fähigkeiten"
+    },
+    "labelAcademia": {
+      "aboutText":"Academia ist eine Mentoring-Plattform, die darauf ausgelegt ist, angehende Fachleute mit erfahrenen Mentoren aus verschiedenen Branchen zu verbinden. Unser Ziel ist es, Wachstum und Entwicklung zu fördern, indem wir maßgeschneiderte Anleitung, Unterstützung und Einblicke bieten, die den Einzelnen dabei helfen, ihr volles Potenzial zu erreichen. Wir glauben, dass Mentoring ein leistungsstarkes Werkzeug für den Erfolg ist, und unsere Plattform zielt darauf ab, eine Gemeinschaft des kontinuierlichen Lernens, Wachstums und der Möglichkeit zu schaffen.",
+      "taskText":"Die Aufgabe bestand darin, eine benutzerfreundliche Plattform zu entwickeln, die bedeutungsvolle Verbindungen zwischen Mentoren und Mentees ermöglicht. Wir konzentrierten uns darauf, ein nahtloses Erlebnis zu schaffen, bei dem die Nutzer problemlos die richtigen Mentoren basierend auf ihren Zielen und Fachgebieten finden und sich mit ihnen verbinden können. Die Idee war, den Mentoring-Prozess zugänglicher, transparenter und ansprechender zu gestalten, damit die Nutzer wertvolle berufliche Beziehungen aufbauen und ihre persönliche und berufliche Entwicklung beschleunigen können."
+    },
+    "labelMedia": {
+      "aboutText":"Diese Social-Media-Plattform ist darauf ausgelegt, bedeutungsvolle Verbindungen zu schaffen und echte Interaktionen zu fördern. Ob du dich mit Freunden verbinden, deine Leidenschaften teilen oder neue Inhalte entdecken möchtest, unsere Plattform bietet einen Raum für alle. Mit einer benutzerfreundlichen Oberfläche, personalisierten Erlebnissen und robusten Funktionen wollen wir Menschen zusammenbringen, kreative Ausdrucksformen fördern und Gemeinschaften aufbauen, in denen Nutzer sich austauschen, lernen und gemeinsam wachsen können.",
+      "taskText":"Die Aufgabe bestand darin, eine intuitive und ansprechende Plattform zu entwickeln, die nicht nur Benutzer miteinander verbindet, sondern sie auch dazu befähigt, ihre Geschichten zu teilen und auf neue Weise mit Inhalten zu interagieren. Wir konzentrierten uns darauf, ein nahtloses Benutzererlebnis zu schaffen, bei dem jede Interaktion, vom Posten bis zum Kommentieren, mühelos und angenehm war. Das Ziel war es, eine Plattform zu schaffen, auf der Nutzer vielfältige Inhalte entdecken, sich mit anderen verbinden können, die ähnliche Interessen teilen, und einen Raum für Kreativität und Zusammenarbeit fördern."
+    }
+  }
+  
